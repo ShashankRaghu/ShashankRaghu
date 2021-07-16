@@ -2,7 +2,7 @@
   Email: shashankccoc@gmail.com<br /> 
   Mobile: 8123450905<br /> 
   LinkedIn Profile: www.linkedin.com/in/shashank-r<br/>
-  Portfolio Link: shashankraghu.github.io/Shashank_Portfolio</b>
+  Portfolio Link: https://shashankraghu.github.io/Shashank_Portfolio/</b>
 
 <b>PROFESSIONAL SUMMARY<br /> </b>
 Motivated React Developer with 3+ years of experience working in the financial data domain and designing data-intensive client facing applications. Proficient in data processing, React, Redux along with coding languages Python and Java. Achieved 1st rank, in Post Graduate Programme in Data Science from IIIT-Bangalore, among 200+ peers. Built several efficient, complex and functioning web interfaces, such as Tables, Charts and Calendars. Experienced in translating business and functional knowledge into sustainable deliverables by developing, testing, and deploying several robust applications. 
